@@ -1,0 +1,6 @@
+{
+  "name": "Empório Fresh",
+  "description": "Landing page premium e ultra lucrativa de mercado e hortifruti de bairro com foco em alta conversão e atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
